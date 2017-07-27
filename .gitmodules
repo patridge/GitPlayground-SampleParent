@@ -1,0 +1,3 @@
+[submodule "subs"]
+	path = subs
+	url = https://github.com/patridge/GitPlayground-SampleSubmodule.git
